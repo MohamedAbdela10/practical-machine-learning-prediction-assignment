@@ -1,5 +1,5 @@
 # Predictions using the Weight Lifting Exercises Dataset
-Mohammed Ali  
+Mohamed Abdela 
 8 Dec 2018  
 
 
